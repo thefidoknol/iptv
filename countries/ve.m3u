@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Auto",Garage TV (242p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-url="" group-title="Auto",Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Entertainment",MTV (Latin America) (480p)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-url="" group-title="",Promar TV (432p)
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",TeleSUR (360p)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",TeleSUR (1080p)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" tvg-url="" group-title="News",TeleSUR English (1080p)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",Televisora de Oriente (426p)
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="VE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",Vepaco TV (486p)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8

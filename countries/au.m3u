@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/lokNx1U.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV (720p)
+https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-url="" group-title="Business",Bloomberg TV Australia (360p)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-url="" group-title="Business",Bloomberg TV Australia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-url="" group-title="Business",Bloomberg TV Australia (720p)
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-url="" group-title="",C31 Melbourne (404p)
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="" group-title="Music",Channel V
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR;AU" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/uet8P2n.jpg" tvg-url="" group-title="",ERT World
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/2KzCShW.png" tvg-url="" group-title="Shop",Expo Channel (360p)
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Fox Sports News (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="English" tvg-logo="" tvg-url="" group-title="",HBO Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN;CA;UK;US;AU;NZ;EUR" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" tvg-url="" group-title="",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com (576p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-url="" group-title="News",Sky News Extra 1 (576p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-url="" group-title="News",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-url="" group-title="News",Sky News Extra 3 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-url="" group-title="Sport",Snowy Mountains TV (1082p)
+http://c.mjh.nz/snowy-mountains/
